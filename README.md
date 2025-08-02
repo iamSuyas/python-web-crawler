@@ -10,7 +10,7 @@ This project is a **multi-threaded web crawler and vulnerability scanner** devel
 
 
 ### Credits
-This project could not have possible without the help of (freeCodeCamp's)[https://www.freecodecamp.org/] article on web crawling. (Article Link)[https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python/]!
+This project could not have possible without the help of [freeCodeCamp's](https://www.freecodecamp.org/) article on web crawling. Get the [Article Link here](https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python/)!
 ## Features
 
 - Multi-threaded crawling of internal links
